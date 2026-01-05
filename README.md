@@ -9,5 +9,6 @@ Per utilizzare il programma:
 1) scaricare il file algmath.zip
 2) decomprimere il file in una generica cartella
 3) eseguire l'applicazione \algmath\bin\algmath.exe
+
 Una sommaria descrizione del programma e' riportata nel file algmath.pdf presente nella presente cartella.
 Alcuni esempi di programmi Python, presenti nella cartella algmath\exp, sono descritti nella dispensa InforMateMatica.pdf presente nella cartella \book
